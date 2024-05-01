@@ -4,7 +4,7 @@ ResearchRadar is a web platform designed for the evaluation of research papers, 
 
 ![ResearchRadar Screenshot](./venv/Screenshot_1.jpg)
 
-Visit the live app: [ResearchRadar](https://talk2pdf-sd.streamlit.app/)
+Visit the live app: [ResearchRadar](https://researchradar-wkswakhfzyxjhrnsfu7gmw.streamlit.app/)
 
 ## Features:
 - **Paper Evaluation:** ResearchRadar provides a comprehensive evaluation of research papers, considering various factors such as clarity, novelty, methodology, and significance.
@@ -18,7 +18,7 @@ Visit the live app: [ResearchRadar](https://talk2pdf-sd.streamlit.app/)
 - PyPDF2
 
 ## Installation:
-1. Clone the repository: `git clone https://github.com/your_username/ResearchRadar.git`
+1. Clone the repository: `git clone https://github.com/subhayudutta/ResearchRadar.git`
 2. Navigate to the project directory: `cd ResearchRadar`
 3. Install dependencies: `pip install -r requirements.txt`
 
@@ -28,7 +28,7 @@ Visit the live app: [ResearchRadar](https://talk2pdf-sd.streamlit.app/)
 
 ## Live App Usage
 
-1. Visit the [ResearchRadar website](https://talk2pdf-sd.streamlit.app/).
+1. Visit the [ResearchRadar website](https://researchradar-wkswakhfzyxjhrnsfu7gmw.streamlit.app/).
 2. Upload the pdf you want to chat with.
 3. Enter your messages.
 4. Chat with multiple PDFs using the power of generative AI.
