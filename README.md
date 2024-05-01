@@ -37,6 +37,6 @@ Visit the live app: [ResearchRadar](https://researchradar-wkswakhfzyxjhrnsfu7gmw
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## License:
-This project is licensed under the [GNU License](LICENSE).
+This project is licensed under the [GPL-3.0 license](LICENSE).
 Feel free to customize the README according to your project's specifics!
 
