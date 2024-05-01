@@ -6,8 +6,8 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from PyPDF2 import PdfReader
 import os
 
-# api_key1 = st.secrets["google_api_key"]
-# os.environ['GOOGLE_API_KEY'] = api_key1
+api_key1 = st.secrets["google_api_key"]
+os.environ['GOOGLE_API_KEY'] = api_key1
 
 llm = ChatGoogleGenerativeAI(model="gemini-pro")
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=10000, chunk_overlap=20)

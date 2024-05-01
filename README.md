@@ -13,7 +13,6 @@ Visit the live app: [ResearchRadar](https://talk2pdf-sd.streamlit.app/)
 - **User-Friendly Interface:** With a streamlined interface powered by Streamlit, ResearchRadar ensures ease of use and intuitive navigation for users.
 
 ## Technologies Used:
-- Gemini 1.5 Pro API
 - LangChain
 - Streamlit
 - PyPDF2
